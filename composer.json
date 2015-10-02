@@ -1,0 +1,21 @@
+{
+  "name": "codechanic/fuzzy.usage",
+  "description": "How to use fuzzy_logic in your projects",
+  "require": {
+
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "felix",
+      "email": "firomerorom4@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-0": {
+      "CubaExplorer": "src/",
+
+    }
+  }
+}
